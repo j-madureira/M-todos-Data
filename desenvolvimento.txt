@@ -1,0 +1,8 @@
+- Crie uma variável com o objeto new Date
+- Crie uma data
+- Imprima a data
+- Iprima apenas o ano
+- Imprima apenas o dia
+- Crie um Array com os dias da semana
+- Imprima apenas o dia da semana
+- Crie um Array com os meses e imprima o mês
